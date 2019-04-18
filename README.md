@@ -69,6 +69,6 @@ BeCode(Git, Github)
 
 **FINALLY DONE! I NEED A BREAK NOW** 
 
- :pray: :pray: :pray: :pray: :pray:
+:pray::pray::pray::pray::pray:
 
 
