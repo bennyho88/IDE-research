@@ -2,7 +2,7 @@
 
 ## Text editor: Studio Visual Code
 
-format: ![Logo Visual Studio Code](https://cdn-images-1.medium.com/max/1200/1*4pcAVkaZOTLrcUV9dio3oA.png)
+![Logo Visual Studio Code](https://cdn-images-1.medium.com/max/1200/1*4pcAVkaZOTLrcUV9dio3oA.png)
 ### Search for different IDE's online
 
 	 1. __Visual Studio Code__
@@ -13,7 +13,7 @@ format: ![Logo Visual Studio Code](https://cdn-images-1.medium.com/max/1200/1*4p
 	 7. __Komodo Edit__
 
 ### A download link of the IDE
-	 * https://code.visualstudio.com/Download
+	 * [Download link]: https://code.visualstudio.com/Download
 
 ### Three positives
 	 * Free
