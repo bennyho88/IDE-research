@@ -53,3 +53,10 @@ lightweight editor with many extensions that you can implement. Moreover a big p
 - [x] Find your reason to use Visual Studio Code
 - [ ] Work on the group assigment regarding the IDE
 
+### Example code block
+```javascript 
+function BeCode(a,b) {
+return a + "and" + b "is difficult at the beginning";
+}
+BeCode(Git, Github)
+
