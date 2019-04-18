@@ -9,8 +9,7 @@
 	 1. Visual Studio Code
 	 2. Atom
 	 3. Brackets
-	 4. Notepad++
-	 5. TextMate
+	 4. Notepad++c
 	 6. Vim
 	 7. Komodo Edit
 
@@ -30,6 +29,16 @@
 	   __VS Code is a general code/scripting IDE built to be lightweight and for people familiar with their language of choice, not 	     directly comparable to Visual Studio in power or scope.__
 	 *Slow launch time
 	   __Than it's competitors, e.g. Sublime Text.__
+
+
+| Specs      				|
+| ------------- |:-------------:| -----:|
+| Platforms     | Windows, MacOs, Linux |
+| License	| MIT 			|
+| Cross Platform| Yes 			|
+| Multi Language support   | Yes 	|
+| Export	| PDF via extensions	|
+| Bracket Matching | Yes 		|
 
 ### No.1 Reason why you chose this IDE
 
