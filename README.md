@@ -2,7 +2,7 @@
 
 ## Text editor: Studio Visual Code
 
-Format: ![Logo Visual Studio Code](https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.launchdarkly.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fvisualstudio_code-card.png&imgrefurl=https%3A%2F%2Flaunchdarkly.com%2Fblog%2Flaunched-version-2-of-the-launchdarkly-visual-studio-code-extension%2F&docid=6gF-li5RpdgeHM&tbnid=n53GiATSTAEQxM%3A&vet=10ahUKEwi4nqPd5dnhAhUwsKQKHUD1BPAQMwhBKAIwAg..i&w=480&h=240&client=ubuntu&bih=639&biw=1299&q=visual%20studio%20code%20logo&ved=0ahUKEwi4nqPd5dnhAhUwsKQKHUD1BPAQMwhBKAIwAg&iact=mrc&uact=8)
+![Logo Visual Studio Code](https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.launchdarkly.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fvisualstudio_code-card.png&imgrefurl=https%3A%2F%2Flaunchdarkly.com%2Fblog%2Flaunched-version-2-of-the-launchdarkly-visual-studio-code-extension%2F&docid=6gF-li5RpdgeHM&tbnid=n53GiATSTAEQxM%3A&vet=10ahUKEwi4nqPd5dnhAhUwsKQKHUD1BPAQMwhBKAIwAg..i&w=480&h=240&client=ubuntu&bih=639&biw=1299&q=visual%20studio%20code%20logo&ved=0ahUKEwi4nqPd5dnhAhUwsKQKHUD1BPAQMwhBKAIwAg&iact=mrc&uact=8)
 
 ### Search for different IDE's online
 
