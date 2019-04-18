@@ -3,13 +3,13 @@
 
     - Search for different IDE's online
 
-	- Visual Studio Code
-	- Atom
-	- Brackets
-	- Notepad++
-	- TextMate
-	- Vim
-	- Komodo Edit
+	1. Visual Studio Code
+	2. Atom
+	3. Brackets
+	4. Notepad++
+	5. TextMate
+	6. Vim
+	7. Komodo Edit
 
         A download link of the IDE
 	- https://code.visualstudio.com/Download
