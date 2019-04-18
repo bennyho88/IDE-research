@@ -13,7 +13,8 @@
 	 7. Komodo Edit
 
 ### A download link of the IDE
-	 * [Download link](https://code.visualstudio.com/Download)
+	 [Download link](https://code.visualstudio.com/Download)
+[I'm an inline-style link](https://www.google.com)
 
 ### Three positives
 	 * Free
@@ -23,11 +24,11 @@
 	 * Options for customization
 ### Three negatives
 	 * Embedded Git isn't powerful enough
-	   __You can do nothing but to track changes, stage them and commit. No history, visualization, rebasing or cherry-picking – these 		     things are left to git console or external git client.__
+	   _You can do nothing but to track changes, stage them and commit. No history, visualization, rebasing or cherry-picking – these 		     things are left to git console or external git client._
 	 *Generalized
-	   __VS Code is a general code/scripting IDE built to be lightweight and for people familiar with their language of choice, not 	     directly comparable to Visual Studio in power or scope.__
+	   _VS Code is a general code/scripting IDE built to be lightweight and for people familiar with their language of choice, not 	     		    directly comparable to Visual Studio in power or scope._
 	 *Slow launch time
-	   __Than it's competitors, e.g. Sublime Text.__
+	   _Than it's competitors, e.g. Sublime Text._
 ### Specifications Visual Studio Code
 
 | Specs      	|			|
