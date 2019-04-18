@@ -45,3 +45,11 @@ opening and changing files. (Apparently on par with Sublime which is a paid edit
 >The main reason why I have chose this IDE is mainly due to the fact that it's a fast and 
 lightweight editor with many extensions that you can implement. Moreover a big plus is that it has a debugging feature.
 
+### Task list
+
+- [x]Search for a download link
+- [x]Find three positive points
+- [x]Find three negative points
+- [x]Find your reason to use Visual Studio Code
+- [ ] Work on the group assigment regarding the IDE
+
