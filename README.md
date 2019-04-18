@@ -24,11 +24,11 @@ opening and changing files. (Apparently on par with Sublime which is a paid edit
 * Options for customization
 ### Three negatives
 * Embedded Git isn't powerful enough
- * _You can do nothing but to track changes, stage them and commit. No history, visualization, rebasing or cherry-picking – these things are left to git console or external git client._
+  * _You can do nothing but to track changes, stage them and commit. No history, visualization, rebasing or cherry-picking – these things are left to git console or external git client._
 * Generalized
- * _VS Code is a general code/scripting IDE built to be lightweight and for people familiar with their language of choice, not directly comparable to Visual Studio in power or scope._
+  * _VS Code is a general code/scripting IDE built to be lightweight and for people familiar with their language of choice, not directly comparable to Visual Studio in power or scope._
 * Slow launch time
- * _Than it's competitors, e.g. Sublime Text._
+  * _Than it's competitors, e.g. Sublime Text._
 ### Specifications Visual Studio Code
 
 | Specs      	|			|
