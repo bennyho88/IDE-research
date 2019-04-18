@@ -47,9 +47,9 @@ lightweight editor with many extensions that you can implement. Moreover a big p
 
 ### Task list
 
-- [x]Search for a download link
-- [x]Find three positive points
-- [x]Find three negative points
-- [x]Find your reason to use Visual Studio Code
+- [x] Search for a download link
+- [x] Find three positive points
+- [x] Find three negative points
+- [x] Find your reason to use Visual Studio Code
 - [ ] Work on the group assigment regarding the IDE
 
