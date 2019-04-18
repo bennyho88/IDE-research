@@ -1,5 +1,8 @@
 # IDE-research
 
+# Text editor: Studio Visual Code
+
+![Image of Visual studio code logo](logo_visualstudiocode.png)
 
     - Search for different IDE's online
 
