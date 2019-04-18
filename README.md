@@ -14,7 +14,7 @@
 
 ### A download link of the IDE
 
-[Download link](https://code.visualstudio.com)
+[Download link](https://code.visualstudio.com/Download)
 
 ### Three positives
 * Free
@@ -47,11 +47,18 @@ lightweight editor with many extensions that you can implement. Moreover a big p
 
 ### Task list
 
-- [x] Search for a download link
-- [x] Find three positive points
-- [x] Find three negative points
-- [x] Find your reason to use Visual Studio Code
-- [ ] Work on the group assigment regarding the IDE
+- [x] an image
+- [x] a url with custom text
+- [x] a numbered list
+- [x] a table
+- [x] bold text
+- [x] italic text
+- [x] a non numbered list with subpoints
+- [x] a quote
+- [x] headers
+- [x] a code block
+- [x] a task list
+- [x] an emoji
 
 ### Example code block
 ```javascript 
