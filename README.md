@@ -31,8 +31,8 @@
 	   __Than it's competitors, e.g. Sublime Text.__
 
 
-| Specs      	|		|	|
-| ------------- |:-------------:| -----:|
+| Specs      	|			|
+| ------------- | -----:|
 | Platforms     | Windows, MacOs, Linux |
 | License	| MIT 			|
 | Cross Platform| Yes 			|
