@@ -13,8 +13,8 @@
 	 7. Komodo Edit
 
 ### A download link of the IDE
-	 [Download link](https://code.visualstudio.com)
-[I'm an inline-style link](https://www.google.com)
+
+[Download link](https://code.visualstudio.com)
 
 ### Three positives
 	 * Free
